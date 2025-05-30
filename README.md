@@ -1,4 +1,6 @@
 # Adaptive Low-Power IoT Protocols
+
+
 ## Workshop program
 ### Part 1
 **Presentation** of **Direct Terminal** (WiFi) with simple communication to ThingSpeak server. Using wifi_tools.py module.
@@ -18,3 +20,6 @@
 
 ## Attention:
 **All examples coded in µPython are prepared on RISC-V and x86 SBCs.** The hands-on part deals only with the preparation/modification of the parameters and running the prepared examples.
+
+## Hardware and Software
+### Hardware
