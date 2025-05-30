@@ -2,6 +2,7 @@
 ## Workshop program
 ### Part 1
 **Presentation** of Direct Terminal (WiFi) with simple communication to ThingSpeak server. Using wifi_tools.py module.
+
 **Implementation** of Low-Power Adaptive Protocol for Direct Terminal. Analysis of memory hierarchy – introduction of power control meta-parameters and parameters. Main program and required additional modules tools. Power (current analysis) for Direct Terminal.
 
     
