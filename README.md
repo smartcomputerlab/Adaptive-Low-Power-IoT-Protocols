@@ -1,5 +1,7 @@
 # Adaptive Low-Power IoT Protocols
-
+<p align="center">
+  <img src="images/terminals.and.servers.mapping.png" width="640" title="hover text">
+</p>
 
 ## Workshop program
 ### Part 1
