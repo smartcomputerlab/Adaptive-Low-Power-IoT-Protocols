@@ -47,7 +47,7 @@
   <img src="images/integrated.platform.x86.png" width="480" title="hover text">
 </p>
 
-### Power (charge) consumption analysis with Power Profiler Kit 2 (NORDIC semiconductors)
+### Power (charge) consumption analysis with Power Profiler Kit II (NORDIC semiconductors)
 <p align="center">
   <img src="images/ppk.diagram.lora.adaptive.png" width="480" title="hover text">
 </p>
