@@ -29,7 +29,7 @@
 **Implementation** of **Low-Power Adaptive Protocol for Remote Terminal**. AES protection and ACK packets. Main program and required additional modules tools. Power (current analysis) for Remote Terminal.
 
 ### Attention:
-**All examples coded in µPython are prepared on RISC-V and x86 SBCs.** The hands-on part deals only with the preparation/modification of the parameters and running the prepared examples.
+**All examples coded in µPython are prepared on RISC-V and x86 SBCs.** The hands-on part deals **only** with the **preparation/modification of the parameters** and running the prepared examples.
 
 ## Platform : Hardware and Software
 ### from IoT SoC to IoT Platform
