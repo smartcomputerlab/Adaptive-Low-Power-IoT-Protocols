@@ -37,12 +37,12 @@
   <img src="images/soc.to.platform.png" width="480" title="hover text">
 </p>
 
-### Integrated IoT Platform - RISC-V
+### Integrated IoT Platform - RISC-V (Spacemit: RV64GCVB)
 <p align="center">
   <img src="images/integrated.platform.riscv.png" width="480" title="hover text">
 </p>
 
-### Integrated IoT Platform - x86
+### Integrated IoT Platform - x86 (Intel N100)
 <p align="center">
   <img src="images/integrated.platform.x86.png" width="480" title="hover text">
 </p>
