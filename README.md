@@ -24,5 +24,5 @@
 ## Hardware and Software
 ### Hardware
 <p align="center">
-  <img src="images/terminals.and.servers.mapping.png" width="240" title="hover text">
+  <img src="images/terminals.and.servers.mapping.png" width="640" title="hover text">
 </p>
