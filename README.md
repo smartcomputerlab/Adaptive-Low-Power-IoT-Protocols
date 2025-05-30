@@ -31,8 +31,8 @@
 ## Attention:
 **All examples coded in µPython are prepared on RISC-V and x86 SBCs.** The hands-on part deals only with the preparation/modification of the parameters and running the prepared examples.
 
-## Hardware and Software
-### Hardware
+# Platform : Hardware and Software
+
 <p align="center">
   <img src="images/soc.to.platform.png" width="320" title="hover text">
 </p>
