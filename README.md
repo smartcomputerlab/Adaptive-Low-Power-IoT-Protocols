@@ -1,7 +1,7 @@
 # Adaptive Low-Power IoT Protocols
 ## Workshop program
 ### Part 1
-    1. Presentation of Direct Terminal (WiFi) with simple communication to ThingSpeak server. Using wifi_tools.py module.
+    1. Presentation of **Direct Terminals** (WiFi) with simple communication to ThingSpeak server. Using wifi_tools.py module.
     2. Implementation of Low-Power Adaptive Protocol for Direct Terminal. Analysis of memory hierarchy – introduction of power control meta-parameters and parameters. Main program and required additional modules tools. Power (current analysis) for Direct Terminal.
 ### Part 2 (optional)
     1. Presentation of Close Terminal (MAC-WiFi) and MAC-WiFi Router with simple communication to ThingSpeak server. 
