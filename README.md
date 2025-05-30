@@ -3,10 +3,12 @@
 <p align="center">
   <img src="images/terminals.and.servers.mapping.png" width="640" title="hover text">
 </p>
-### Adaptiv Low-Power IoT Protocol timeline : cycles, stages and phases
+
+### Adaptive Low-Power IoT Protocol timeline : cycles, stages and phases
 <p align="center">
   <img src="images/stages.and.phases.png" width="640" title="hover text">
 </p>
+
 
 
 ## Workshop program
