@@ -39,11 +39,11 @@
 
 ### Integrated IoT Platform - RISC-V
 <p align="center">
-  <img src="images/integrated.platform.riscv.png" width="640" title="hover text">
+  <img src="images/integrated.platform.riscv.png" width="480" title="hover text">
 </p>
 
 ### Integrated IoT Platform - x86
 <p align="center">
-  <img src="images/integrated.platform.x86.png" width="640" title="hover text">
+  <img src="images/integrated.platform.x86.png" width="480" title="hover text">
 </p>
 
