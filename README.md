@@ -28,11 +28,11 @@
 **Presentation** of **Remote Terminal** (MAC-WiFi) and LoRa-WiFi Gateway with simple communication to ThingSpeak server. 
 **Implementation** of **Low-Power Adaptive Protocol for Remote Terminal**. AES protection and ACK packets. Main program and required additional modules tools. Power (current analysis) for Remote Terminal.
 
-## Attention:
+### Attention:
 **All examples coded in µPython are prepared on RISC-V and x86 SBCs.** The hands-on part deals only with the preparation/modification of the parameters and running the prepared examples.
 
-# Platform : Hardware and Software
-
+## Platform : Hardware and Software
+### from IoT SoC to IoT Platform
 <p align="center">
   <img src="images/soc.to.platform.png" width="320" title="hover text">
 </p>
