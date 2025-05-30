@@ -19,13 +19,13 @@
 
     
 ### Part 2 (optional)
-**Presentation** of Close Terminal (MAC-WiFi) and MAC-WiFi Router with simple communication to ThingSpeak server. 
+**Presentation** of Close Terminal (MAC-WiFi) and **MAC-WiFi Router** with simple communication to ThingSpeak server. 
 
 **Implementation** of **Low-Power Adaptive Protocol for Close Terminal**. Main program and required additional modules tools. Power (current analysis) for Close Terminal.
 
     
 ### Part 3
-**Presentation** of **Remote Terminal** (MAC-WiFi) and LoRa-WiFi Gateway with simple communication to ThingSpeak server. 
+**Presentation** of **Remote Terminal** (MAC-WiFi) and **LoRa-WiFi Gateway** with simple communication to ThingSpeak server. 
 **Implementation** of **Low-Power Adaptive Protocol for Remote Terminal**. AES protection and ACK packets. Main program and required additional modules tools. Power (current analysis) for Remote Terminal.
 
 ### Attention:
