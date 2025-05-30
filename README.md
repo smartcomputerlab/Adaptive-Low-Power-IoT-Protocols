@@ -47,6 +47,11 @@
   <img src="images/integrated.platform.x86.png" width="480" title="hover text">
 </p>
 
+### Power (charge) consumption analysis with Power Profile Kit 2 (NORDIC semiconductors)
+<p align="center">
+  <img src="images/ppk.diagram.lora.adaptive.png" width="480" title="hover text">
+</p>
+
 ### MicroPython - Thonny IDE
 <p align="center">
   <img src="images/thonny.ide.1.png" width="480" title="hover text">
