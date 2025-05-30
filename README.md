@@ -11,7 +11,7 @@
 
 
 
-## Workshop program
+# Workshop program
 ### Part 1
 **Presentation** of **Direct Terminal** (WiFi) with simple communication to ThingSpeak server. Using wifi_tools.py module.
 
