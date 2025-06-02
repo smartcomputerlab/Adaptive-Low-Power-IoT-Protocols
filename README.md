@@ -1,4 +1,4 @@
-# Adaptive Low-Power IoT Protocols
+# Adaptive Low-Power IoT Protocol
 ### IoT DevKit (thing) mapping
 <p align="center">
   <img src="images/terminals.and.servers.mapping.png" width="640" title="hover text">
