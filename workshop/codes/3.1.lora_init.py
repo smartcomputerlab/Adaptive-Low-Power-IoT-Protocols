@@ -32,8 +32,8 @@ lora_default = {
     'frequency': 868E6,             # Frequency for Europe (868 MHz ISM band)
     'tx_power_level': 14,           # Transmission power level (14 dBm)
     'signal_bandwidth': 125E3,      # Signal bandwidth (125 kHz)
-    'spreading_factor': 7,          # Spreading factor (7)
-    'coding_rate': 5,               # Coding rate (4/5)
+    'spreading_factor': 11,          # Spreading factor (7)
+    'coding_rate': 8,               # Coding rate (4/5)
     'preamble_length': 8,           # Preamble length (8)
     'implicit_header': False,       # Explicit header mode
     'sync_word': 0x12,              # LoRa sync word
@@ -53,4 +53,6 @@ def lora_init():
     print("LoRa modem initialized with default parameters.")
     return lora
 
-lora_init()                       # only for test
+#lora_init()                       # only for test
+
+
